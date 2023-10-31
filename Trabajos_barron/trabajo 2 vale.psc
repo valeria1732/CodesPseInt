@@ -5,7 +5,7 @@ Proceso sin_titulo
 	Leer nombre;
 	Escribir"ingresa calificacion";
 	Leer calificacion;
-	Escribir "Hola",nombre;
+	Escribir " Hola ",nombre;
 	Escribir "felicidades sacaste ",calificacion;
 	
 	
